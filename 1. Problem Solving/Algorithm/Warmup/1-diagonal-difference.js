@@ -1,3 +1,5 @@
+// Link : https://www.hackerrank.com/challenges/diagonal-difference/problem
+
 function diagonalDifference(arr) {
   // Write your code here
   let firstDiagonal = 0;
