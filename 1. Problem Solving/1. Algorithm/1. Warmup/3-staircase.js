@@ -1,3 +1,5 @@
+// Link : https://www.hackerrank.com/challenges/staircase/problem
+
 function staircase(n) {
   // Write your code here
   let stringStaircase = '';
