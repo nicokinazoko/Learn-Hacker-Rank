@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/migratory-birds
 function migratoryBirds(arr) {
   // Write your code here
   let birds;
