@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/electronics-shop/problem
 function getMoneySpent(keyboards, drives, b) {
   /*
    * Write your code here.

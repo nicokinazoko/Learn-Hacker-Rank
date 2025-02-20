@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 function beautifulDays(i, j, k) {
   // Write your code here
   let countBeautifulDays = 0;
